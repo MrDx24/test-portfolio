@@ -13,11 +13,10 @@ body{
     background-color: var(--primary-colour);
     color: var(--font-colour);
     overflow-x: hidden;
-    overflow-y: hidden;
 }
 
 .testbr{
-    /* border: 1px solid white; */ 
+    /* border: 1px solid white; */
 }
 
 .bg-fill {
@@ -101,9 +100,6 @@ body{
 }
 
 /* Homepade section starts */
-.homepage-container{
-    overflow-y: scroll;
-}
 
 .homepage-introduction{
     padding: 0.8rem;
@@ -241,7 +237,6 @@ body{
     padding-top: 6rem;
     padding-bottom: 6rem;
     font-family: 'Roboto', sans-serif;
-    overflow-y: scroll;
 }
 
 .about-heading{
@@ -487,7 +482,6 @@ progress-mongoDB{0%{width: 0%;} 100%{ width: 25%;}}
     padding-top: 6rem;
     padding-bottom: 6rem;
     font-family: 'Roboto', sans-serif;
-    overflow-y: scroll;
     
 }
 
@@ -600,10 +594,6 @@ progress-mongoDB{0%{width: 0%;} 100%{ width: 25%;}}
 /* ========================================================================================== */
 
 /* Contact section starts */
-
-.contact-container{
-    overflow-y: scroll;
-}
 
 .contact-holder{
     padding: 1rem 0.8rem 0rem 0.8rem;
